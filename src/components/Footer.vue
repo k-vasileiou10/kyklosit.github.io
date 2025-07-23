@@ -4,7 +4,7 @@
 
 <template>
   <footer class="footer">
-    <img src="@/assets/kyklos-it-high-resolution-logo-grayscale-transparent.png" alt="Footer Icon" class="footer-icon">
+    <img src="/kyklos-it-high-resolution-logo-grayscale-transparent.png" alt="Footer Icon" class="footer-icon">
     <h1>I'm a footer.</h1>
   </footer>
 </template>
