@@ -6,7 +6,7 @@
   <header class="header">
     <div class="header-content">
       <div class="header-icon-title">
-        <img src="@/assets/kyklos-it-high-resolution-logo-transparent.png" alt="Header Icon" class="header-icon"/>
+        <img src="/kyklos-it-high-resolution-logo-transparent.png" alt="Header Icon" class="header-icon"/>
       </div>
 
       <div class="header-title">
